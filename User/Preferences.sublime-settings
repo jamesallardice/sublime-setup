@@ -5,7 +5,9 @@
     // Make sure there's a trailing newline
     "ensure_newline_at_eof_on_save": false,
 
-    "font_size": 12,
+    // Use a nice font, at a decent size
+    "font_face": "Consolas",
+    "font_size": 13,
 
     // 4 spaces per tab
     "tab_size": 4,
