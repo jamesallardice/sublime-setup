@@ -7,6 +7,8 @@ of Sublime Text 2.
 It should work with Sublime Text 3, but some of the packages I use regularly do
 not yet.
 
+**This is written for use on OS X. It won't work on Windows, or any other OS.**
+
 ## Setup
 
 Simply clone the repository and run the setup script from within the directory:
