@@ -1,0 +1,21 @@
+{
+    // Don't open a blank window at startup
+    "create_window_at_startup": false,
+
+    // Make sure there's a trailing newline
+    "ensure_newline_at_eof_on_save": false,
+
+    "font_size": 12,
+
+    // 4 spaces per tab
+    "tab_size": 4,
+
+    // Spaces instead of tabs
+    "translate_tabs_to_spaces": true,
+
+    // No trailing whitespace
+    "trim_trailing_white_space_on_save": true,
+
+    // Make tab/backspace keys work properly with spaces
+    "use_tab_stops": true
+}

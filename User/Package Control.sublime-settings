@@ -1,0 +1,10 @@
+{
+    // Missing packages are installed automatically on startup
+    "installed_packages": [
+        "EditorConfig",
+        "GitGutter",
+        "JavaScriptNext - ES6 Syntax",
+        "Package Control",
+        "SublimeLinter"
+    ]
+}
