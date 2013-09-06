@@ -19,5 +19,8 @@
     "trim_trailing_white_space_on_save": true,
 
     // Make tab/backspace keys work properly with spaces
-    "use_tab_stops": true
+    "use_tab_stops": true,
+
+    // Force word wrapping for all files
+    "word_wrap": true
 }
