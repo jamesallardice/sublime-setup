@@ -9,6 +9,9 @@
     "font_face": "Consolas",
     "font_size": 13,
 
+    // Increase the line height a little
+    "line_padding_top": 1,
+
     // 4 spaces per tab
     "tab_size": 4,
 
