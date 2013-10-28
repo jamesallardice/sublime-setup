@@ -1,6 +1,7 @@
 {
     // Missing packages are installed automatically on startup
     "installed_packages": [
+        "CoffeeScript",
         "EditorConfig",
         "GitGutter",
         "JavaScriptNext - ES6 Syntax",
